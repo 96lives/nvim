@@ -3,8 +3,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'daeyun/vim-matlab'
 Plug 'nanotech/jellybeans.vim', { 'tag': 'v1.6' } 
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
-Plug 'python-mode/python-mode', { 'branch': 'develop' }
-Plug 'davidhalter/jedi-vim'
 
 
 call plug#end()
